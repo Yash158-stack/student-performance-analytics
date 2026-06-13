@@ -25,8 +25,8 @@ This project analyzes student performance data to identify factors affecting aca
 
 ### Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](images/heatmap.png)
 
 ### Risk Distribution
 
-![Risk](images/risk_distribution.png)
+![Risk](images/piechart.png)
